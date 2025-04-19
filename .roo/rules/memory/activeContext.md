@@ -1,9 +1,9 @@
-# Bulletproof React プロジェクト - activeContext.md テンプレート
+# 設計支援対話アプリ - activeContext.md テンプレート
 
 `activeContext.md` はプロジェクトの現在の状態を記録する重要なファイルです。AI が各セッション間で状態を維持するために継続的に更新していくためのテンプレートを作成しました。
 
 ````markdown
-# Bulletproof React - アクティブコンテキスト
+# 設計支援対話アプリ - アクティブコンテキスト
 
 _最終更新: YYYY-MM-DD_
 
